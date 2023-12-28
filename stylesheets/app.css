@@ -1,9 +1,6 @@
 body {
    margin: 0;
    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-main {
    max-width: 940px;
    margin: 0 auto;
    padding: 0 1rem;
@@ -15,10 +12,9 @@ main h1 {
 }
 
 footer {
-   border-top: 1px solid #ccc;
+   border-top: 1px solid #ddd;
    margin-top: 2rem;
-   padding: 1rem;
-   background-color: #ddd;
+   padding: 0.5rem;
    text-align: center;
 }
 
