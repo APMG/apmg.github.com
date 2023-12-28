@@ -1,4 +1,4 @@
-apmg.github.com
+apmg.github.io
 ===============
 
-American Public Media at github
+American Public Media at GitHub
