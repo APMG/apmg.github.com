@@ -1,29 +1,23 @@
-/* Artfully masterminded by ZURB  */
+body {
+   margin: 0;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0 1rem;
+}
 
-/* -------------------------------------------------- 
-   Table of Contents
------------------------------------------------------
-:: Shared Styles
-:: Page Name 1
-:: Page Name 2
-*/
+main h1 {
+   font-size: 1.5rem;
+   text-wrap: balance;
+}
 
+footer {
+   border-top: 1px solid #ddd;
+   margin-top: 2rem;
+   padding: 0.5rem;
+   text-align: center;
+}
 
-/* -----------------------------------------
-   Shared Styles
------------------------------------------ */
-
-
-
-/* -----------------------------------------
-   Page Name 1
------------------------------------------ */
-
-
-
-
-/* -----------------------------------------
-   Page Name 2
------------------------------------------ */
-
-
+a[href] {
+   color: #b5121a;
+}
